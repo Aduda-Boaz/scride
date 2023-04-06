@@ -2,7 +2,6 @@ import React from 'react';
 import 'react-multi-carousel/lib/styles.css';
 
 const About = () => {
-
   return (
     <section className="skill" id="skills">
         <div className="container">
